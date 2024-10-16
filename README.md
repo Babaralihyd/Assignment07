@@ -1,1 +1,0 @@
-# second-class-assignment-node.js
